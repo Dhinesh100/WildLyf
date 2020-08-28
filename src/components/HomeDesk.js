@@ -4,14 +4,15 @@ import Amur from './amur.jpeg';
 import Kakapo from './kakapo.jpeg';
 import Gharial from './gharial.jpeg';
 import Toothbilledpigeon from './toothbilledpigeon.jpeg';
-import Title from './Title';
 import Header from './Header';
+
+const Image = require('./img.jpg')
 
 const HomeDesktop = () => {
     return (
         <div>
             <Header />
-            <Title />
+            <img src={Image} height="500px" width="100%" alt="Zebra" />
             <div>
                 <h1 style={{textAlign: 'center'}}>World's Most Endangered Species</h1>
                 <hr style={{width: '50%', backgroundColor: '#000'}} />
