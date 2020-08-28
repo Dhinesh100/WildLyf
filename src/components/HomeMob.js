@@ -12,7 +12,7 @@ const HomeMobile = () => {
     return (
         <div>
             <Header />
-            <img src={Image} height="500px" width="100%" alt="Zebra" />
+            <img src={Image} height="250px" width="100%" alt="Zebra" />
             <div>
                 <h1 style={{textAlign: 'center'}}>World's Most Endangered Species</h1>
                 <hr style={{width: '50%', backgroundColor: '#000'}} />
