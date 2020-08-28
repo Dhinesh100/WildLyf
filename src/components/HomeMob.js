@@ -18,7 +18,7 @@ const HomeMobile = () => {
                 <h3 style={{textAlign: 'center'}}>5. TOOTH-BILLED PIGEON</h3>
                 <div className="ml-5 mr-5">
                     <div className="d-flex justify-content-center">
-                        <img src={Toothbilledpigeon} width="90%" height="300px" /><br />
+                        <img src={Toothbilledpigeon} width="90%" height="300px" alt="Tooth Billed Pigeon" /><br />
                     </div>
                     <p>Following the example of their relative the extinct 
                         dodo, tooth-billed pigeons are disappearing at an alarming rate. They only live on Samoa and there are 
@@ -35,7 +35,7 @@ const HomeMobile = () => {
                 <h3 style={{textAlign: 'center'}}>4. GHARIAL</h3>
                 <div className="ml-5 mr-5">
                     <div className="d-flex justify-content-center">
-                        <img src={Gharial} width="90%" height="300px" /><br />
+                        <img src={Gharial} width="90%" height="300px" alt="Gharial" /><br />
                     </div>
                     <p>The gharial (Gavialis gangeticus), also known as the 
                         gavial or the fish-eating crocodile, is a crocodilian in the family Gavialidae and among the longest 
@@ -64,7 +64,7 @@ const HomeMobile = () => {
                 <h3 style={{textAlign: 'center'}}>3. KAKAPO</h3>
                 <div className="ml-5 mr-5">
                     <div className="d-flex justify-content-center">
-                        <img src={Kakapo} width="90%" height="300px" /><br />
+                        <img src={Kakapo} width="90%" height="300px" alt="Kakapo" /><br />
                     </div>
                     <p>The kakapo, also called owl parrot (Strigops habroptilus), 
                         is a species of large, flightless, nocturnal, ground-dwelling parrot of the super-family Strigopoidea, 
@@ -93,7 +93,7 @@ const HomeMobile = () => {
                 <h3 style={{textAlign: 'center'}}>2. AMUR LEOPARD</h3>
                 <div className="ml-5 mr-5">
                     <div className="d-flex justify-content-center">
-                        <img src={Amur} width="90%" height="300px" /><br />
+                        <img src={Amur} width="90%" height="300px" alt="Amur Leopard" /><br />
                     </div>
                     <p>In the Russian Far East, the Amur leopard inhabits an area of about 
                         7,000 km2 (2,700 sq mi) today. It is well adapted to a cold climate and snow.
@@ -115,7 +115,7 @@ const HomeMobile = () => {
                 <h3 style={{textAlign: 'center'}}>1. VAQUITA</h3>
                 <div className="ml-5 mr-5">
                     <div className="d-flex justify-content-center">
-                        <img src={Vaquita} className="imgLeft" width="90%" height="300px" /><br />
+                        <img src={Vaquita} className="imgLeft" width="90%" height="300px" alt="Vaquita" /><br />
                     </div>
                     <p>A survey released earlier this year estimated the vaquita population was as 
                         low as 30 individuals. An all time low for the porpoise, the population is 

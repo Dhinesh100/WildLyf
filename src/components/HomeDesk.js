@@ -17,7 +17,7 @@ const HomeDesktop = () => {
                 <hr style={{width: '50%', backgroundColor: '#000'}} />
                 <h3 style={{textAlign: 'center'}}>5. TOOTH-BILLED PIGEON</h3>
                 <div className="ml-5 mr-5">
-                    <p><img src={Toothbilledpigeon} className="imgLeft" /><br />Following the example of their relative the extinct 
+                    <p><img src={Toothbilledpigeon} className="imgLeft" alt="Tooth Billed Pigeon" /><br />Following the example of their relative the extinct 
                         dodo, tooth-billed pigeons are disappearing at an alarming rate. They only live on Samoa and there are 
                         currently 70 to 380 left in the wild, with no captive populations to aid conservation efforts. Very 
                         little is actually known about tooth-billed pigeons. They are elusive and very rarely seen. In the 
@@ -31,7 +31,7 @@ const HomeDesktop = () => {
                 </div>
                 <h3 style={{textAlign: 'center'}}>4. GHARIAL</h3>
                 <div className="ml-5 mr-5">
-                    <p><img src={Gharial} className="imgRight" /><br />The gharial (Gavialis gangeticus), also known as the 
+                    <p><img src={Gharial} className="imgRight" alt="Gharial" /><br />The gharial (Gavialis gangeticus), also known as the 
                         gavial or the fish-eating crocodile, is a crocodilian in the family Gavialidae and among the longest 
                         of all living crocodilians. Mature females are 2.6–4.5 m (8 ft 6 in–14 ft 9 in) long, and males 3–6 m 
                         (9 ft 10 in–19 ft 8 in). They have a distinct boss at the end of the snout, which resembles an 
@@ -57,7 +57,7 @@ const HomeDesktop = () => {
                 </div>
                 <h3 style={{textAlign: 'center'}}>3. KAKAPO</h3>
                 <div className="ml-5 mr-5">
-                    <p><img src={Kakapo} className="imgLeft" /><br />The kakapo, also called owl parrot (Strigops habroptilus), 
+                    <p><img src={Kakapo} className="imgLeft" alt="Kakapo" /><br />The kakapo, also called owl parrot (Strigops habroptilus), 
                         is a species of large, flightless, nocturnal, ground-dwelling parrot of the super-family Strigopoidea, 
                         endemic to New Zealand. It has finely blotched yellow-green plumage, a distinct facial disc, a large 
                         grey beak, short legs, large feet, and relatively short wings and tail. A combination of traits make 
@@ -83,7 +83,7 @@ const HomeDesktop = () => {
                 </div>
                 <h3 style={{textAlign: 'center'}}>2. AMUR LEOPARD</h3>
                 <div className="ml-5 mr-5">
-                    <p><img src={Amur} className="imgRight" /><br />In the Russian Far East, the Amur leopard inhabits an area of about 
+                    <p><img src={Amur} className="imgRight" alt="Amur Leopard" /><br />In the Russian Far East, the Amur leopard inhabits an area of about 
                         7,000 km2 (2,700 sq mi) today. It is well adapted to a cold climate and snow.
                         Leopards cross between Russia, China, and North Korea across the Tumen River despite 
                         a high and long wire fence marking the boundary. The first camera trap image of an Amur 
@@ -102,7 +102,7 @@ const HomeDesktop = () => {
                 </div>
                 <h3 style={{textAlign: 'center'}}>1. VAQUITA</h3>
                 <div className="ml-5 mr-5">
-                    <p><img src={Vaquita} className="imgLeft" /><br />A survey released earlier this year estimated the vaquita population was as 
+                    <p><img src={Vaquita} className="imgLeft" alt="Vaquita" /><br />A survey released earlier this year estimated the vaquita population was as 
                         low as 30 individuals. An all time low for the porpoise, the population is 
                         half of what it was just the year before. And a 97% drop from the year before 
                         that. The world’s smallest porpoise, vaquitas measure up to five-feet long and
