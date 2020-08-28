@@ -1,0 +1,9 @@
+.imgLeft {
+  float: left;
+  padding: 20px 20px 0px 0px;
+}
+
+.imgRight {
+  float: right;
+  padding: 20px 20px 0px 0px;
+}
